@@ -1,12 +1,42 @@
-# React + Vite
+📝 **Notes App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive Notes App built with React, Tailwind CSS, and Google Material Icons. Organize your thoughts with features like pinning, archiving, and 
+deleting notes. **I didn’t make it responsive for tablets or mobile devices because I built this project mainly to implement my React skills.**
 
-Currently, two official plugins are available:
+🔧**Tech Stack**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend: React.js + vite
 
-## Expanding the ESLint configuration
+Styling: Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Icons: Google Material Symbols (Outlined & Filled)
+
+✨ **Features**
+
+➕ Create Notes – Add new notes with ease.
+
+📌 Pin Notes – Pin important notes to keep them at the top and also add to seperate page.
+
+🗃️ Archive Notes – Move notes to the archive section instead of deleting them.
+
+🗑️ Delete Notes – Remove notes you no longer need.
+
+🎨 Modern UI – Minimal and clean look powered by Tailwind CSS and Google Icons.
+
+🚀 **Getting Started**
+
+1. Clone the repository
+
+git clone https://github.com/Greeshma-jagarapu/Notes_App.git
+
+cd Notes_App
+
+2. Install dependencies
+
+npm install
+
+3. Start the development server
+
+npm run dev
+
+And then visit http://localhost:5173 to view the app in your browser.
