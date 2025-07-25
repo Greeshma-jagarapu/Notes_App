@@ -1,8 +1,6 @@
 📝 # Notes App
 A clean and responsive Notes App built with React, Tailwind CSS, and Google Material Icons. Organize your thoughts with features like pinning, archiving, and
-
 deleting notes, all in a modern and user-friendly interface. **I didn't make it responsive for tablets or mobile devices because I built this project mainly to 
-
 implement my react skills.**
 
 🔧 # Tech Stack
